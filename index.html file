@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Official Privacy Policy for Dukaan Hisab Pro Android Application">
+    <title>Privacy Policy - Dukaan Hisab Pro</title>
+    <style>
+        :root {
+            --primary: #1B5E20;
+            --primary-light: #2E7D32;
+            --primary-bg: #E8F5E9;
+            --accent: #E65100;
+            --text-dark: #0F172A;
+            --text-body: #334155;
+            --text-muted: #64748B;
+            --bg-page: #F8FAFC;
+            --card-bg: #FFFFFF;
+            --border-color: #E2E8F0;
+            --badge-green-bg: #DCFCE7;
+            --badge-green-text: #166534;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background-color: var(--bg-page);
+            color: var(--text-dark);
+            line-height: 1.65;
+            padding: 24px 16px;
+        }
+
+        .container {
+            max-width: 880px;
+            margin: 0 auto;
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 40px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04);
+        }
+
+        @media (max-width: 640px) {
+            .container {
+                padding: 24px 18px;
+            }
+        }
+
+        .header {
+            border-bottom: 2px solid var(--border-color);
+            padding-bottom: 24px;
+            margin-bottom: 28px;
+        }
+
+        .badge {
+            display: inline-block;
+            background-color: var(--badge-green-bg);
+            color: var(--badge-green-text);
+            font-weight: 700;
+            font-size: 13px;
+            padding: 6px 14px;
+            border-radius: 9999px;
+            margin-bottom: 14px;
+            letter-spacing: 0.5px;
+            text-transform: uppercase;
+        }
+
+        h1 {
+            font-size: 28px;
+            color: var(--primary);
+            margin-bottom: 8px;
+            line-height: 1.25;
+        }
+
+        .subtitle {
+            font-size: 15px;
+            color: var(--text-muted);
+            margin-bottom: 12px;
+        }
+
+        .meta-card {
+            background-color: #F1F5F9;
+            border-radius: 10px;
+            padding: 14px 16px;
+            font-size: 13.5px;
+            color: var(--text-body);
+            line-height: 1.6;
+            margin-top: 10px;
+        }
+
+        .meta-card strong {
+            color: var(--text-dark);
+        }
+
+        .highlight-box {
+            background-color: var(--primary-bg);
+            border-left: 4px solid var(--primary);
+            padding: 18px 20px;
+            border-radius: 0 12px 12px 0;
+            margin: 24px 0;
+        }
+
+        .highlight-box h3 {
+            color: var(--primary);
+            font-size: 16px;
+            margin-bottom: 6px;
+        }
+
+        .highlight-box p {
+            font-size: 14px;
+            color: #1E3A1E;
+            margin: 0;
+        }
+
+        h2 {
+            font-size: 20px;
+            color: var(--primary-light);
+            margin: 32px 0 12px 0;
+            padding-bottom: 6px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        h3 {
+            font-size: 16px;
+            color: var(--text-dark);
+            margin: 18px 0 8px 0;
+        }
+
+        p {
+            font-size: 15px;
+            color: var(--text-body);
+            margin-bottom: 12px;
+        }
+
+        ul {
+            padding-left: 24px;
+            margin-bottom: 16px;
+        }
+
+        li {
+            font-size: 15px;
+            color: var(--text-body);
+            margin-bottom: 8px;
+        }
+
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            font-size: 14px;
+        }
+
+        .data-table th, .data-table td {
+            border: 1px solid var(--border-color);
+            padding: 12px 14px;
+            text-align: left;
+        }
+
+        .data-table th {
+            background-color: #F1F5F9;
+            color: var(--text-dark);
+            font-weight: 600;
+        }
+
+        .data-table tr:nth-child(even) {
+            background-color: #F8FAFC;
+        }
+
+        .contact-box {
+            background: #F8FAFC;
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 24px;
+        }
+
+        .contact-box a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .contact-box a:hover {
+            text-decoration: underline;
+        }
+
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid var(--border-color);
+            text-align: center;
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        @media print {
+            body {
+                background: #FFF;
+                padding: 0;
+            }
+            .container {
+                box-shadow: none;
+                border: none;
+                padding: 0;
+                max-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <span class="badge">Google Play Data Safety Compliant</span>
+        <h1>Privacy Policy for Dukaan Hisab Pro</h1>
+        <div class="subtitle">दुकान हिसाब प्रो — आपकी दुकान, आपका हिसाब (100% सुरक्षित ऑफ़लाइन बहीखाता)</div>
+        
+        <div class="meta-card">
+            <div><strong>Application Name:</strong> Dukaan Hisab Pro (दुकान हिसाब प्रो)</div>
+            <div><strong>Package Name (Application ID):</strong> <code>com.aistudio.dukaanhisab.qklnmr</code></div>
+            <div><strong>Developer / Publisher:</strong> Dukaan Hisab Developer</div>
+            <div><strong>Support Email:</strong> <a href="mailto:kk5435794@gmail.com" style="color: #1B5E20; font-weight: 600;">kk5435794@gmail.com</a></div>
+            <div><strong>Effective Date:</strong> November 1, 2026</div>
+        </div>
+    </div>
+
+    <div class="highlight-box">
+        <h3>🛡️ Summary: Complete Offline Privacy Guarantee</h3>
+        <p>
+            <strong>Dukaan Hisab Pro is an Offline-First native Android application.</strong> We do NOT collect, transmit, store, or sell any of your business records, customer ledgers, sales bills, or financial data on external servers or cloud services. All your accounting records exist strictly on your local device inside a secured, sandboxed Room SQLite database.
+        </p>
+    </div>
+
+    <h2>1. Introduction</h2>
+    <p>
+        This Privacy Policy describes the policies and procedures of <strong>Dukaan Hisab Pro</strong> ("we", "our", or "the Application") regarding the collection, use, and disclosure of information when you use our mobile application on Android devices.
+    </p>
+    <p>
+        We are dedicated to safeguarding the privacy and commercial confidentiality of small retailers, shopkeepers, wholesalers, and traders who use our app.
+    </p>
+
+    <h2>2. User Data We Collect (Zero Remote Collection)</h2>
+    <p>
+        <strong>We collect zero (0) personal or commercial data off your device.</strong>
+    </p>
+    <ul>
+        <li><strong>No Cloud Accounts:</strong> You do not need an account, login credentials, or email sign-in to use the application.</li>
+        <li><strong>No External Server Transmission:</strong> The application does not communicate with any external backend servers, remote APIs, or cloud storage systems.</li>
+        <li><strong>No Advertising or Tracking SDKs:</strong> The application contains no third-party ad networks, no analytics trackers, no session recorders, and no profiling SDKs.</li>
+    </ul>
+
+    <h2>3. Information Stored Locally on Your Device</h2>
+    <p>
+        To perform business accounting, invoice generation, customer credit tracking, and stock management, the Application stores data locally on your device within an encrypted Android Room SQLite database:
+    </p>
+    <ul>
+        <li><strong>Customer & Supplier Records:</strong> Names, contact numbers, and addresses that you manually enter for your shop records.</li>
+        <li><strong>Ledger Transactions:</strong> Credit given (Udhaar / Debit), payments received (Jama / Credit), transaction dates, payment modes (Cash, UPI, Online, Bank Transfer), and notes.</li>
+        <li><strong>Sales Invoices & Purchases:</strong> Bill numbers, items purchased, quantities, unit prices, discounts, and payment status.</li>
+        <li><strong>Inventory & Stock:</strong> Item names, categories, cost prices, selling prices, and current stock counts.</li>
+        <li><strong>Shop Profile:</strong> Shop name, owner name, business category, address, phone number, and optional UPI ID (used solely for printing on customer invoices).</li>
+        <li><strong>Security App PIN:</strong> If you enable the 4-digit App Lock feature, your PIN is converted into a salted cryptographic <strong>SHA-256 hash</strong> on your device. The cleartext PIN is never stored or recorded.</li>
+    </ul>
+
+    <h2>4. Android Device Permissions</h2>
+    <p>
+        Dukaan Hisab Pro follows Google Play's <em>least-privilege access</em> standard:
+    </p>
+    <ul>
+        <li><strong>No Sensitive Permissions:</strong> The app does <strong>NOT</strong> request or access your Contact Book, SMS Messages, Phone Call Logs, Location, Camera, Microphone, or Internal Hardware Sensors.</li>
+        <li><strong>File Sharing (Android FileProvider):</strong> When you choose to export a customer statement or invoice (PDF/CSV) and share it (e.g. via WhatsApp or Email), the app uses Android's native <code>FileProvider</code> to grant temporary, read-only access strictly to that specific generated file.</li>
+    </ul>
+
+    <h2>5. Google Play Data Safety Summary</h2>
+    <p>
+        The following table outlines our data practices for the Google Play Console Data Safety section:
+    </p>
+
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Data Type</th>
+                <th>Collected Off-Device?</th>
+                <th>Shared with 3rd Parties?</th>
+                <th>Storage & Handling</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Personal Information</strong> (Name, Phone)</td>
+                <td><strong>No</strong> (0 bytes)</td>
+                <td><strong>No</strong></td>
+                <td>Stored exclusively in private on-device SQLite database</td>
+            </tr>
+            <tr>
+                <td><strong>Financial Info</strong> (Ledgers, Bills, Expenses)</td>
+                <td><strong>No</strong> (0 bytes)</td>
+                <td><strong>No</strong></td>
+                <td>Stored exclusively in private on-device SQLite database</td>
+            </tr>
+            <tr>
+                <td><strong>Contacts & SMS</strong></td>
+                <td><strong>Not Accessed</strong></td>
+                <td><strong>No</strong></td>
+                <td>Not collected, requested, or accessed</td>
+            </tr>
+            <tr>
+                <td><strong>Location & Device Identifiers</strong></td>
+                <td><strong>No</strong></td>
+                <td><strong>No</strong></td>
+                <td>Not collected or tracked</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>6. Data Security and Cryptography</h2>
+    <p>
+        We employ industry-standard on-device security safeguards:
+    </p>
+    <ul>
+        <li><strong>Operating System Sandboxing:</strong> All SQLite database records are stored in Android's application-private storage space, preventing access by other apps installed on the device.</li>
+        <li><strong>Salted SHA-256 PIN Security:</strong> App lock authentication utilizes cryptographic SHA-256 with unique salts. Cleartext PINs are never persisted.</li>
+        <li><strong>CSV Formula Injection Mitigation:</strong> Exported spreadsheets are sanitized against spreadsheet formula injection (CWE-1236) to prevent malicious formula execution when opened in Excel or Google Sheets.</li>
+        <li><strong>Cache Auto-Pruning:</strong> Temporary shared reports and PDF bills in application cache are automatically deleted after 24 hours to prevent lingering copies.</li>
+    </ul>
+
+    <h2>7. Data Retention and Deletion (User Control)</h2>
+    <ul>
+        <li><strong>In-App Deletion:</strong> You can completely erase all customer records, ledgers, and transactions at any time using the <em>"Clear All Data"</em> button in the Backup & Export screen.</li>
+        <li><strong>App Uninstallation:</strong> Because all records reside in Android's application-private directory, uninstalling Dukaan Hisab Pro immediately and permanently deletes all database records from your device.</li>
+    </ul>
+
+    <h2>8. Third-Party Services and Links</h2>
+    <p>
+        The Application does not include third-party links, advertisements, or external tracking services.
+    </p>
+
+    <h2>9. Children's Privacy</h2>
+    <p>
+        Dukaan Hisab Pro is a commercial retail management tool designed for business owners and shopkeepers. It does not address or target anyone under the age of 13, and does not knowingly collect any data from children.
+    </p>
+
+    <h2>10. Changes to This Privacy Policy</h2>
+    <p>
+        We may update our Privacy Policy periodically. Any changes will be posted on this page with an updated "Effective Date". We encourage you to review this page periodically for any changes.
+    </p>
+
+    <h2>11. Contact Us</h2>
+    <div class="contact-box">
+        <p>If you have questions, feedback, or concerns regarding this Privacy Policy or your data privacy in Dukaan Hisab Pro, please contact us at:</p>
+        <p style="margin-top: 10px;">
+            <strong>Developer Contact:</strong> <a href="mailto:kk5435794@gmail.com">kk5435794@gmail.com</a><br>
+            <strong>Application:</strong> Dukaan Hisab Pro (दुकान हिसाब प्रो)<br>
+            <strong>Application ID:</strong> <code>com.aistudio.dukaanhisab.qklnmr</code>
+        </p>
+    </div>
+
+    <div class="footer">
+        &copy; 2026 Dukaan Hisab Pro. All rights reserved. 100% Offline, Secure & Private Bahi Khata.
+    </div>
+</div>
+
+</body>
+</html>
